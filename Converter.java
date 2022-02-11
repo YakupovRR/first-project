@@ -1,6 +1,6 @@
 public class converter {
-
-void converter {
+//проба
+void converter { 
 }
 
 }
