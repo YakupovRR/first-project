@@ -1,3 +1,6 @@
-public static void praktikum {
+public class praktikum {
+//проба
+public static void main (String[] args) {
 
+}
 }
